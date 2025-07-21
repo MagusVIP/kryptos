@@ -24,7 +24,6 @@ This repository contains:
 ## 🧩 K4 Decrypted Text
 
 > `EVERYTHING IS CODED. IT IS DAMNED HARD INDEED...`  
-> *(see full text in `decryption/k4_decrypted.txt`)*
 
 Portions of plaintext including `"BERLINCLOCK"`, `"EAST"`, and `"NORTHEAST"` confirm alignment with public hints from Sanborn.
 
