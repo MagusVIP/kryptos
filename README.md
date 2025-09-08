@@ -5,6 +5,7 @@ This repository documents the full process and result of decrypting the **final 
 **Author**: Magus  
 **Date**: July 2025  
 **Contact**: [MagusVIP](https://github.com/MagusVIP/) / magusvip@me.com
+
 **Zenodo Publication** [The Complete Solution to Kryptos K4: A Cryptogeographic Analysis of the 35-Year Enigma](https://zenodo.org/records/16241678)
 
 ---
